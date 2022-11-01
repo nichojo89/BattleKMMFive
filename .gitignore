@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/BattleKMMDroid/build/
+/BattleKMMDroid/build/intermediates/javac/debug/classes/
+/shared/build/
